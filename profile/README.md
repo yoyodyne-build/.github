@@ -1,4 +1,4 @@
-![Yoyodyne ](yoyodyne-banner.png)
+![Yoyodyne ](./yoyodyne-banner.png)
 
 # Yoyodyne Build!
 ## The Future Begins Sometime Around 3:50
@@ -9,7 +9,7 @@ We at Yoyodyne Build believe in pushing boundaries and exploring new frontiers i
 
 ### Our Team
 
-<a href="https://github.com/code-chimp"><img src="avatar-0.png" width="100" height="100" style="border-radius:50%" alt="code-chimp avatar"></a>
+<a href="https://github.com/code-chimp"><img src="./avatar-0.png" width="100" height="100" style="border-radius:50%" alt="code-chimp avatar"></a>
 
 **[Tim Goshinski](https://code-chimp.com)**
 
