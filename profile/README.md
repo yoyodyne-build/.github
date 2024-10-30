@@ -1,7 +1,6 @@
-![Yoyodyne ](./yoyodyne-banner.png)
+![Yoyodyne ](./yoyodyne-banner2.png)
 
 # Yoyodyne Build!
-## The Future Begins Sometime Around 3:50
 
 ### About Us
 
